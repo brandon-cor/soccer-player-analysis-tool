@@ -1,0 +1,94 @@
+[
+  {
+    "fileName": "demo-sheet-1.xlsx",
+    "player": {
+      "name": "R Calder",
+      "team": "Birmingham Legion",
+      "position": "0",
+      "color": "#E8A838",
+      "stats": {
+        "Shooting": 71,
+        "Passing": 74,
+        "Dribbling": 71,
+        "Defending": 76,
+        "Physicality": 75
+      }
+    },
+    "categories": [
+      "Shooting",
+      "Passing",
+      "Dribbling",
+      "Defending",
+      "Physicality"
+    ]
+  },
+  {
+    "fileName": "demo-sheet-2.xlsx",
+    "player": {
+      "name": "T Mercer",
+      "team": "New England",
+      "position": "Forward",
+      "color": "#E8A838",
+      "stats": {
+        "Shooting": 73,
+        "Passing": 75,
+        "Dribbling": 75,
+        "Defending": 76,
+        "Physicality": 76
+      }
+    },
+    "categories": [
+      "Shooting",
+      "Passing",
+      "Dribbling",
+      "Defending",
+      "Physicality"
+    ]
+  },
+  {
+    "fileName": "demo-sheet-3.xlsx",
+    "player": {
+      "name": "K Harlow",
+      "team": "Detroit City",
+      "position": "Forward",
+      "color": "#E8A838",
+      "stats": {
+        "Shooting": 74,
+        "Passing": 75,
+        "Dribbling": 74,
+        "Defending": 74,
+        "Physicality": 76
+      }
+    },
+    "categories": [
+      "Shooting",
+      "Passing",
+      "Dribbling",
+      "Defending",
+      "Physicality"
+    ]
+  },
+  {
+    "fileName": "demo-sheet-4.xlsx",
+    "player": {
+      "name": "V Sinclair",
+      "team": "Swope Park Rangers",
+      "position": "Forward",
+      "color": "#E8A838",
+      "stats": {
+        "Shooting": 76,
+        "Passing": 74,
+        "Dribbling": 73,
+        "Defending": 73,
+        "Physicality": 74
+      }
+    },
+    "categories": [
+      "Shooting",
+      "Passing",
+      "Dribbling",
+      "Defending",
+      "Physicality"
+    ]
+  }
+]
