@@ -112,7 +112,7 @@ export default function HomePage() {
                 marginTop: "-10px",
               }}
             >
-              while you spend less than them
+              while spending less than them
             </p>
             <Link
               href="/upload"
@@ -152,7 +152,7 @@ export default function HomePage() {
             className="text-center text-gray-200 mb-16 text-lg"
             style={{ fontFamily: '"Instrument Sans", sans-serif' }}
           >
-            Access your data anywhere, on any device
+            Upload, analyze, and compare players with ease
           </p>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 items-end">
